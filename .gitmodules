@@ -1,0 +1,6 @@
+[submodule "mybiz-v2-business"]
+	path = mybiz-v2-business
+	url = git@bitbucket.org:tons/mybiz-v2-business.git
+[submodule "mybiz-v2-api"]
+	path = mybiz-v2-api
+	url = git@bitbucket.org:tons/mybiz-v2-api.git

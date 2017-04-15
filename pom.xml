@@ -13,8 +13,8 @@
     <description>Project Repository System R2</description>
 
     <modules>
-        <module>api</module>
-        <module>business</module>
+        <module>mybiz-v2-api</module>
+        <module>mybiz-v2-business</module>
     </modules>
 
     <build>
