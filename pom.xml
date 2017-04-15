@@ -10,25 +10,11 @@
     <packaging>pom</packaging>
 
     <name>Parent</name>
-    <description>Project Repository System R2</description>
+    <description>Umbrella project for MyBiz modules</description>
 
     <modules>
         <module>mybiz-v2-api</module>
         <module>mybiz-v2-business</module>
     </modules>
-
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.1</version>
-                <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
