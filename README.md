@@ -1,4 +1,6 @@
 
+# How to run this app
+
 git clone git@github.com:tonsV2/MyBiz2.git
 
 cd MyBiz2/
